@@ -2,9 +2,7 @@
 
 ## About Me
 
-Hello! I am a Spanish Computer Science and Mathematics student at [Paris Cité University](https://u-paris.fr/en/).
-I am fortunate to be working at [CiTIUS](https://citius.gal/) as a research scholar, thanks to a scholarship opportunity,
-where I am developing tools to work with LiDAR data.
+Hello! I am a Spanish Computer Science and Mathematics student at [Paris Cité University](https://u-paris.fr/en/) and currently working at [CiTIUS](https://citius.gal/). I am developing tools for LiDAR data through a scholarship opportunity.
 
 ## Interests
 
