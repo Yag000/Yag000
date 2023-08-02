@@ -1,4 +1,4 @@
-# Yago Iglesias Vázquez
+ Yago Iglesias Vázquez
 
 ## About Me
 
@@ -23,7 +23,7 @@ the development of the project [here](https://github.com/Yag000/monkey-rs).
 - Programming Languages: Rust, OCaml, Python, Java, C and Bash.
 - Functional Programming: Experience with functional programming concepts and techniques.
 - Version Control: Proficient in using Git for version control and collaborative development.
-- GNU/Linux Environments: Familiarity with GNU/Linux command-line tools and scripting.
+- GNU/Linux Environments: Familiarity with GNU/Linux command-line tools and scripting. I use Arch as my daily driver.
 - Mathematics: Solid foundation in mathematical concepts and their application to problem-solving.
 
 ## Contact
