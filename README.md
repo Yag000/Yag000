@@ -16,7 +16,7 @@ At the moment, I am actively learning and improving my skills in Rust and furthe
 
 During my free time, I am developing a set of tools for the [Monkey Programming Language](https://monkeylang.org/).
 The idea is to develop a compiler/interpreter for the language, a formatter, a linter, and a language server in rust. You can follow
-the development of the project [here](https://github.com/Yag000/monkey-rs).
+the development of the project [here](https://github.com/Yag000/chimpnazee).
 
 ## Key skills and Technologies
 
