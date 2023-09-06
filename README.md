@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I am a Spanish Computer Science and Mathematics student at [Paris Cité University](https://u-paris.fr/en/)
+Hello! I am a Spanish Computer Science and Mathematics student at [Paris Cité University](https://u-paris.fr/en/).
 
 ## Interests
 
