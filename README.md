@@ -26,6 +26,8 @@ the development of the project [here](https://github.com/Yag000/chimpanzee).
 - GNU/Linux Environments: Familiarity with GNU/Linux command-line tools and scripting. I use Arch as my daily driver.
 - Mathematics: Solid foundation in mathematical concepts and their application to problem-solving.
 
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=Yag000&langs_count=6&layout=donut)
+
 ## Contact
 
 - 📧 Email: <yago.iglesias.vazquez@gmail.com>
