@@ -3,6 +3,7 @@
 ## About Me
 
 Hello! I am a Spanish Computer Science and Mathematics student at [Paris Cité University](https://u-paris.fr/en/).
+You can also read my [CV](https://github.com/Yag000/cv).
 
 ## Interests
 
@@ -26,7 +27,8 @@ the development of the project [here](https://github.com/Yag000/chimpanzee).
 - GNU/Linux Environments: Familiarity with GNU/Linux command-line tools and scripting. I use Arch as my daily driver.
 - Mathematics: Solid foundation in mathematical concepts and their application to problem-solving.
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=Yag000\&langs_count=6\&layout=donut)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=Yag000&langs_count=6&layout=donut)
+
 ## Contact
 
 - 📧 Email: <yago.iglesias.vazquez@gmail.com>
