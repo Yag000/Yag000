@@ -18,7 +18,7 @@ I am also eager to explore other areas of Computer Science and Mathematics whene
 ## Current Learning Focus
 
 At the moment, I am working on improving my knowledge of proof assistants such as Coq, writing a lot of functional programming (OCaml...) and spending too much time
-writing LaTeX notes of my courses.
+writing LaTeX notes for my courses.
 
 ## Projects
 
