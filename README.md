@@ -13,7 +13,7 @@ My primary interests lie in:
 - **Functional Programming**
 - **Type Theory**
 
-I am also eager to explore other areas of Computer Science and Mathematics whenever the opportunity arises.
+I am also eager to explore other areas of Computer Science and Mathematics.
 
 ## Current Learning Focus
 
