@@ -33,11 +33,11 @@ I maintain several small Rust projects:
 
 ## Key Skills and Technologies
 
-- **Programming Languages:** Rust, OCaml, Coq, LaTeX, Python, Java, C, Bash, and Prolog.
-- **Functional Programming:** Proficient in functional programming concepts and techniques.
+- **Programming Languages:** Rust, OCaml, Coq, LaTeX, Python, Java, C, Bash and Prolog.
 - **Version Control:** Experienced in Git for version control and collaborative development.
 - **GNU/Linux Environments:** Skilled with GNU/Linux command-line tools and scripting. Arch Linux is my daily driver.
-- **Mathematics:** Strong foundation in mathematical concepts, particularly as they apply to problem-solving.
+- **Mathematics:** Strong foundation in mathematical concepts, particularly in logic and algebra.
+- **Langauges:** Native Spanish speaker, bilingual in French, and fluent in English.
 
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/top-langs?username=Yag000&langs_count=6&layout=donut)
 
