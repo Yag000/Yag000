@@ -11,6 +11,8 @@ My primary interests include:
 - **Programming Language Theory**
 - **Functional Programming**
 - **Type Theory**
+- **Automata Theory**
+- **Logic**
 
 I am also enthusiastic about exploring other areas of Computer Science and Mathematics.
 
