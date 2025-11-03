@@ -2,7 +2,9 @@
 
 ## About Me
 
-Hello! I'm Yago Iglesias Vázquez, a passionate Computer Science student from Spain, currently pursuing a Master's degree in Theoretical Computer Science Research at [Paris Cité University](https://u-paris.fr/en/). For more details about my academic and professional journey, feel free to check out my [CV](https://github.com/Yag000/cv).
+Hello! I'm Yago Iglesias Vázquez, a passionate Computer Science student from Spain, currently pursuing a Master's degree in 
+Theoretical Computer Science Research at [Paris Cité University](https://u-paris.fr/en/). For more details about my academic 
+and professional journey, feel free to check out my [CV](https://github.com/Yag000/cv).
 
 ## Interests
 
@@ -18,7 +20,10 @@ I am also enthusiastic about exploring other areas of Computer Science and Mathe
 
 ## Current Learning Focus
 
-Currently, I am deepening my knowledge of proof assistants such as Coq, engaging extensively in functional programming (particularly in OCaml), and dedicating a significant amount of time to writing LaTeX notes for my courses.
+Currently, I am deepening my knowledge of proof assistants such as Rocq, engaging extensively in functional programming (particularly in OCaml and Rust),
+and dedicating a significant amount of time to writing LaTeX notes for my courses : you can check out my notes for some of courses in french
+on [automata theory](https://yag000.github.io/automates-avances-notes/automates.pdf) (M1), [computability](https://yag000.github.io/calculabilite/calculabilite.pdf) (M1),
+[algebra](https://yag000.github.io/algebre-II-notes/algebre-II-notes.pdf) (L3) and [analysis](https://yag000.github.io/integration-notes/integration-notes.pdf) (L3).
 
 ## Projects
 
